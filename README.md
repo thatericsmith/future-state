@@ -1,3 +1,4 @@
-# Laravel Quickstart - Intermediate - Task List With Authentication
+# Future State
 
-http://laravel.com/docs/quickstart-intermediate
+We used Future Imperfect theme from HTML5up - then hooked it up with Laravel's intermediate quickstart tutorial - the end goal is to add Posts instead of Tasks.
+
