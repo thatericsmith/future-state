@@ -1,2 +1,3 @@
-# future-state
-Future Imperfect HTML5UP theme plus a Laravel 5 Backend
+# Laravel Quickstart - Intermediate - Task List With Authentication
+
+http://laravel.com/docs/quickstart-intermediate
